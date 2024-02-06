@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://raw.githubusercontent.com/jkwan88/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://github.com/jkwan88/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
 
 { "url": "clan://localhost/tvboxqq/小米/api.json", "name": "小米" },
 
